@@ -2,6 +2,7 @@
 A Resume in LaTeX!
 
 <!-- ![Preview](http://i.imgur.com/kehekD1.png) -->
+(Credits to Sonny Shi, I forked this repo from him)
 
 Resumes are boring. They're hard to design well because they're so utilitarian. 
 
