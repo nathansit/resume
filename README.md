@@ -1,8 +1,7 @@
 # Software Engineer Latex Resume
 A Resume in LaTeX!
 
-<!-- ![Preview](http://i.imgur.com/kehekD1.png) -->
-(Credits to [Sonny Shi](https://github.com/thisisshi/SoftwareEngineerLatexResume), I forked this repo from him)
+![Preview](http://i.imgur.com/kehekD1.png)
 
 Resumes are boring. They're hard to design well because they're so utilitarian. 
 
